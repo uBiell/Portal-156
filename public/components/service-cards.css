@@ -1,0 +1,40 @@
+#second-content .services .three-row{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 3rem;
+}
+
+#second-content .services .three-row .service-cards{
+    border: 2px grey solid;
+    padding: 30px 15px 20px;
+    width: 350px;
+    height: 250px;
+    border-radius: 15px;
+    box-shadow: 0 0 12px #424242;
+}
+
+.icon{
+    margin-bottom: 1rem;
+    font-size: 2rem;
+    padding: 10px;
+    background-color: #FFDE15;
+    color: #424242;
+    width: 46.5px;
+    border-radius: 5px;
+    border: 1px solid #424242;
+}
+
+.title-service{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 1rem;
+    font-size: 1.5rem;
+}
+
+.title-service .read-more a{
+    color: #FFDE15;
+    padding: 10px;
+    background-color: #424242;
+    clip-path: circle();
+}

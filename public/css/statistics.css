@@ -1,0 +1,77 @@
+/* First Content */
+.container.first-content .statistic-one{
+    display: flex;
+    height: 331px;
+    align-items: center;
+}
+
+.container.first-content .statistic-one .text{
+    flex: 1;
+}
+
+.container.first-content .statistic-one .text h3{
+    margin-top: 1rem;
+    font-size: 1.375rem;
+    font-weight: normal;
+}
+
+.container.first-content .statistic-one .img{
+    flex: 1;
+    min-width: 570px;
+    min-height: 331px;
+    color: white;
+}
+
+.container.first-content .statistic-one .img img{
+    width: 100%;
+}
+
+/* Second Content */
+.container.second-content .statistic-two{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: space-between;
+    gap: 5rem;
+}
+
+.container.second-content .statistic-two .img-text{
+    flex: 1;
+    text-align: center;
+    width: 540px;
+    height: 600px;
+}
+
+.container.second-content .statistic-two .img-text .image{
+    margin-top: 4rem;
+}
+
+.container.second-content .statistic-two .cards{
+    display: flex;
+    flex: 1;
+    gap: 2rem;
+}
+
+.container.second-content .statistic-two .cards .two-cards{
+    display: flex;
+    gap: 3rem;
+    flex-direction: column;
+}
+
+.container.second-content .statistic-two .cards .card-one,
+.container.second-content .statistic-two .cards .card-two,
+.container.second-content .statistic-two .cards .card-three,
+.container.second-content .statistic-two .cards .card-four{
+    /* border: 2px solid #424242; */
+    background-color: white;
+    width: 255px;
+    height: 280px;
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 12px;
+    border-radius: 5px;
+    box-shadow: 0 0 20px #424242;
+}

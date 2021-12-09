@@ -1,0 +1,29 @@
+/* Resets and Predefs */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+body, a{
+    color: #292829;
+    font-family: 'Archivo', sans-serif;
+}
+
+p{
+    font-size: 1.125rem;
+}
+
+h1{
+    font-size: 2.5rem;
+}
+
+h2{
+    font-size: 1.875rem;
+}
