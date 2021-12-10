@@ -41,4 +41,8 @@ class RoutesController extends Controller
     public function services(){
         return view('pages.services');
     }
+
+    public function about(){
+        return view('pages.about');
+    }
 }

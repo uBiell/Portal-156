@@ -1,0 +1,89 @@
+/* Container One */
+.normal-container#one{
+    background-color: #ffde15;
+}
+
+.content-one{
+    display: flex;
+    align-items: center;
+    gap: 5rem;
+}
+
+.content-one .text{
+    flex: 2;
+    text-align: left;
+    max-width: 600px;
+}
+
+.content-one .text h2,
+.content-two h2{
+    margin-bottom: 1rem;
+}
+
+.content-one .text p,
+.content-two p{
+    line-height: 1.44;
+}
+
+.content-one .image{
+    flex: 1;
+    max-width: 400px;
+    height: 314px;
+}
+
+.content-one .image img{
+    width: 100%;
+    margin-top: 100px;
+}
+
+/* Second Content */
+#two{
+    background-color: aliceblue ;
+}
+.second-content{
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+}
+
+.second-content .cards{
+    flex: 1;
+}
+
+.second-content .cards .two-row .card{
+    border: 1px solid #424242;
+    box-shadow: 0 0 12px #424242;
+    padding: 24px 14px;
+    max-width: 255px;
+    border-radius: 10px;
+}
+
+.second-content .cards .two-row .card h3{
+    margin-bottom: 1rem;
+}
+
+.second-content .cards .two-row .card .iconify{
+    font-size: 3rem;
+    margin-bottom: 1rem;
+    background-color: #ffde15;
+    padding: 10px;
+    clip-path: circle();
+}
+
+.second-content .cards .two-row{
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 1rem;
+}
+
+.second-content .text{
+    flex: 1;
+}
+
+.second-content .text h2{
+    margin-bottom: 1rem;
+}
+
+.second-content .text p{
+    line-height: 1.5;
+}

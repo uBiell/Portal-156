@@ -24,15 +24,15 @@
             <h2>Principais Serviços</h2>
             
             <ul class="services">
-                <li><a href="#"><i class="fas fa-tree"></i><br>Árvore</a></li>
-                <li><a href="#"><i class="fas fa-virus"></i><br>Coronavírus<br>(Covid-19)</a></li>
-                <li><a href="#"><i class="fas fa-paw"></i><br>Animais</a></li>
-                <li><a href="#"><i class="fas fa-hand-holding-heart"></i><br>Disque<br>Solidariedade</a></li>
-                <li><a href="#"><i class="fas fa-trash-alt"></i><br>Coleta</a></li>
-                <li><a href="#"><i class="far fa-lightbulb"></i><br>Iluminação<br>Pública</a></li>
-                <li><a href="#"><i class="fas fa-tractor"></i><br>Pavimentação</a></li>
-                <li><a href="#"><i class="fas fa-car"></i><br>Trânsito</a></li>
-                <li><a href="#"><i class="fas fa-car"></i><br>Trânsito</a></li>
+                <li><a href="#"><i class="fas fa-users"></i><br>Cidadãos</a></li>
+                <li><a href="#"><i class="fas fa-info-circle"></i><br>Informações</a></li>
+                <li><a href="#"><i class="fas fa-bullhorn"></i><br>Ouvidoria</a></li>
+                <li><a href="#"><i class="fas fa-star-of-life"></i><br>Reclamações</a></li>
+                <li><a href="#"><i class="far fa-money-bill-alt"></i><br>Impostos<br>e<br>Taxas</a></li>
+                <li><a href="#"><i class="fas fa-tree"></i><br>Lazer<br>e<br>Cultura</li>
+                <li><a href="#"><i class="fas fa-building"></i></i><br>Empresas</a></li>
+                <li><a href="#"><i class="fas fa-user-circle"></i><br>Servidores</a></li>
+                <li><a href="#"><i class="fas fa-user"></i><br>Quarta<br>com o<br>Prefeito</a></li>
             </ul>
         </div>
     </div>

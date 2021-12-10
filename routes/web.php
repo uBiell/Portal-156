@@ -20,3 +20,5 @@ Route::get('/ocorrencia/finalizado', [RoutesController::class, 'requestModal']);
 Route::get('/estatistica', [RoutesController::Class, 'statistics']);
 
 Route::get('/servicos', [RoutesController::Class, 'services']);
+
+Route::get('/sobre', [RoutesController::Class, 'about']);
